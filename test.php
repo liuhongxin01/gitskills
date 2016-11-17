@@ -1,3 +1,3 @@
 <?php
- echo "I am on master !!!!!"; 
+echo "Hello World!!! I am Ok! NOT CONFLICTED";
 ?>
